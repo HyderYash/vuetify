@@ -1,6 +1,5 @@
 .DS_Store
 node_modules/
-.env
 .yarn
 
 # IDE user config
@@ -22,3 +21,4 @@ cypress/videos
 
 .vercel
 .now
+config.bat
