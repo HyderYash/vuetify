@@ -1,6 +1,5 @@
 .DS_Store
 node_modules/
-.env
 
 # IDE user config
 .vscode/
@@ -21,3 +20,4 @@ cypress/videos
 
 .vercel
 .now
+config.bat
